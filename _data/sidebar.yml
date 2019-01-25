@@ -1,13 +1,13 @@
 contact:
-    name: Alan Doe
+    name: Vishnu Kumar
     summary: Full Stack Developer
     avatar: bio.jpg
 
     # Sidebar links
-    email: test@test.com # full email address
+    email: vkumar22@ncsu.edu # full email address
     phone: 919-919-9191 # phone number
     website: # your url (e.g. student.github.io), do not add http://
-    linkedin: # your linkedin username
+    linkedin: vkumar22# your linkedin username
     github: # your github username
     gitlab: # your gitlab username
     bitbucket: # your bitbucket username
@@ -17,7 +17,7 @@ contact:
     osf: # your Open Science Framework username
 
 education:
-    - degree: MSc in Computer Science
+    - degree: MS in Mechnanical Engineering
       university: University of London
       time: 2011 - 2012
 
